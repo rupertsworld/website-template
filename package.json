@@ -1,1 +1,6 @@
-{}
+{
+  "scripts": {
+    "dev": "eleventy --watch --serve --port=1234",
+    "build": "eleventy"
+  }
+}
